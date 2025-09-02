@@ -18,3 +18,8 @@ body {
         text-shadow: -5px -5px 0 #00d4ff, -10px -10px 0 #ff005e;
     }
 }
+
+img {
+    height: 400px;
+    width: 400px;
+}
